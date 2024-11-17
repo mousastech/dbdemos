@@ -13,7 +13,7 @@ Na janela de importação, digite a **URL** https://github.com/mousastech/dbdemo
 
 </br>
 
-<img src="https://github.com/mousastech/dbdemos/blob/main/files/Install.gif">
+<img src="https://github.com/mousastech/dbdemos/blob/main/files/Install.gif?raw=true">
 
 </br>
 
