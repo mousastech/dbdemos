@@ -21,3 +21,22 @@ Acessar a pasta <files> e utilizar o notebook: Install dbdemos
 </br></br>
 
 Lembre-se de selecionar um cluster interativo para executar!
+
+## 🚀 Aprenda como instalar uma demo incrível usando AI/BI Dashboard Databricks
+
+📚 Vídeo no YouTube: https://lnkd.in/dchbWcjX
+
+⚙️Demo importada de Databricks Demos: https://lnkd.in/dP98-eVE
+
+📊AI/BI Dashoards
+- Anexar um SQL Warehouse cluster
+- Editar título, gráficos
+- Criar um novo visual com ajuda do AI Assistant usando linguagem natural
+- Criar página no seu Dashboad 
+- Compartilhar com a equipe utilizando permissões
+- Usar o Genie para responder perguntas no seu idioma
+
+Fale comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochamoises/)](https://www.linkedin.com/in/rochamoises/) 
+[![Gmail Badge](https://img.shields.io/badge/-mousas.rocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mousas.rocha@gmail.com)](mailto:mousas.rocha@gmail.com)
