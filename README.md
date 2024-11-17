@@ -17,7 +17,7 @@ Na janela de importação, digite a **URL** https://github.com/mousastech/dbdemo
 
 </br>
 
-Acessar a pasta <files> e utilizar o notebook: Install dbdemos
+Acessar a pasta <files> e utilizar o notebook: 👉 <b>Install dbdemos</b>🚀
 </br></br>
 
 Lembre-se de selecionar um cluster interativo para executar!
