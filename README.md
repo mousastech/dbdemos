@@ -24,9 +24,7 @@ Lembre-se de selecionar um cluster interativo para executar!
 
 ## 🚀 Aprenda como instalar uma demo incrível usando AI/BI Dashboard Databricks
 
-📚 Vídeo no YouTube: [https://lnkd.in/dchbWcjX](https://www.youtube.com/embed/PkZ-4_BTF7A?si=K3cg-5sjMyFvYwuK)
-
-<br>
+📚 Vídeo no YouTube: https://youtu.be/PkZ-4_BTF7A?si=oBB7_xe67rxFPvww
 
 ⚙️Demo importada de Databricks Demos: https://lnkd.in/dP98-eVE
 
@@ -38,7 +36,9 @@ Lembre-se de selecionar um cluster interativo para executar!
 - Compartilhar com a equipe utilizando permissões
 - Usar o Genie para responder perguntas no seu idioma
 
-Fale comigo:
+<br>
+
+<b>Fale comigo:</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochamoises/)](https://www.linkedin.com/in/rochamoises/) 
 [![Gmail Badge](https://img.shields.io/badge/-mousas.rocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mousas.rocha@gmail.com)](mailto:mousas.rocha@gmail.com)
