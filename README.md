@@ -21,5 +21,3 @@ Acessar a pasta <files> e utilizar o notebook: Install dbdemos
 </br></br>
 
 Lembre-se de selecionar um cluster interativo para executar!
-
-``` html
