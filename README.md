@@ -20,6 +20,8 @@ Na janela de importação, digite a **URL** https://github.com/mousastech/dbdemo
 Acessar a pasta <files> e utilizar o notebook: 👉 <b>Install dbdemos</b>🚀
 </br></br>
 
+<img src="https://github.com/mousastech/dbdemos/blob/e7a4825039f674767723c784a23717ea11dc6b15/files/open.gif?raw=true">
+
 Lembre-se de selecionar um cluster interativo para executar!
 
 ## 🚀 Aprenda como instalar uma demo incrível usando AI/BI Dashboard Databricks
